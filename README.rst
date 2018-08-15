@@ -1,5 +1,5 @@
 [Codecov] Python Example
-=========================
+========================= 
 
 .. contents:: Topics
 
